@@ -9,7 +9,7 @@ Front-End technologies: CSS, JavaScript
 Back-end tecnologies: npm packages inquirer@8.2.4, postgress SQL, express, handlebars
 
 ## Link to Website
-https://tech-blog-i4eg.onrender.com
+https://tech-blog-nrbq.onrender.com
 
 
 ## Credits
